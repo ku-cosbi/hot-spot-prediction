@@ -5,7 +5,7 @@ This compendium has been created to collect data sets and computational methods 
 ## How to cite
 #### If you use any of the lists collected in this repository, please cite the respective article.
 
-## References for Data Sets
+### References for Data Sets
 
 Thorn KS, Bogan AA: ASEdb: a database of alanine mutations and their effects on the free energy of binding in protein interactions. Bioinformatics 2001, 17:284-285.
 
@@ -17,7 +17,7 @@ Peng Y, Sun L, Jia Z, Li L, Alexov E: Predicting protein-DNA binding free energy
 
 Jankauskaite J, Jimenez-Garcia B, Dapkunas J, Fernandez-Recio J, Moal IH: SKEMPI 2.0: an updated benchmark of changes in protein-protein binding energy, kinetics and thermodynamics upon mutation. Bioinformatics 2019, 35:462-469. SKEMPI 2.0 is the most recent and the largest database and hence, it is the most widely used database in computational hot spot prediction studies.
 
-## References for Prediction Methods
+### References for Prediction Methods
 
 Deng L, Sui Y, Zhang J: XGBPRH: Prediction of Binding Hot Spots at Protein(-)RNA Interfaces Utilizing Extreme Gradient Boosting. Genes (Basel) 2019, 10.
 
