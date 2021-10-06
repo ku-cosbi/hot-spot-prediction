@@ -5,6 +5,7 @@ This compendium has been created to collect data sets and computational tools fo
 ## How to cite
 #### If you use any of the lists collected in this repository, please cite the respective article.
 
+Table 1. The list of experimental databases used for computational hot spot prediction. ΔΔG represents the change in binding free energy upon mutation.
 | Database                   | Interactions                                                | Method  Used to  Obtain Data         | Number of proteins annotated | Number of Mutations annotated | ΔΔG | Year |
 |----------------------------|-------------------------------------------------------------|--------------------------------------|-------------------------------|-------------------------------|-----|------|
 | ASEdb                      | protein–protein protein–nucleic acid protein–small molecule | Experimentally                       | NA                            | 2919                          | +   | 2001 |
