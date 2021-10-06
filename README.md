@@ -5,7 +5,7 @@ This compendium has been created to collect data sets and computational tools fo
 ## How to cite
 #### If you use any of the lists collected in this repository, please cite the respective article.
 
-| Database                   | Interactions                                                | Method  Used to  Obtain Data         | Number of proteins annotat ed | Number of Mutations annotated | ΔΔG | Year |
+| Database                   | Interactions                                                | Method  Used to  Obtain Data         | Number of proteins annotated | Number of Mutations annotated | ΔΔG | Year |
 |----------------------------|-------------------------------------------------------------|--------------------------------------|-------------------------------|-------------------------------|-----|------|
 | ASEdb                      | protein–protein protein–nucleic acid protein–small molecule | Experimentally                       | NA                            | 2919                          | +   | 2001 |
 | Assi et al.‘s Ab+ data     | protein-protein                                             | Experimentally  validated            | 25                            | 636                           | -   | 2009 |
