@@ -25,7 +25,7 @@ Preto AJ, Moreira IS: SPOTONE: Hot Spots on Protein Complexes with Extremely Ran
 
 Tuncbag N, Keskin O, Gursoy A: HotPoint: hot spot prediction server for protein interfaces. Nucleic Acids Res 2010, 38:W402-406.
 
-### Table 1. The list of experimental databases used for computational hot spot prediction. ΔΔG represents the change in binding free energy upon mutation.
+**Table 1. The list of experimental databases used for computational hot spot prediction. ΔΔG represents the change in binding free energy upon mutation.**
 
 | Database                   | Interactions                                                | Method  Used to  Obtain Data         | Number of proteins annotated | Number of Mutations annotated | ΔΔG | Year |
 |----------------------------|-------------------------------------------------------------|--------------------------------------|-------------------------------|-------------------------------|-----|------|
@@ -35,7 +35,7 @@ Tuncbag N, Keskin O, Gursoy A: HotPoint: hot spot prediction server for protein 
 | SAMPDI                     | protein–nucleic acid (DNA)                                  | Experimentally                       | 13                            | 105                           | +   | 2018 |
 | SKEMPI                     | protein-protein                                             | Experimentally and literature mining | 345 PDB entry                 | 7085                          | +   | 2019 |
 
-### Table 2. Recent and/or highly cited computational hot spot prediction methods.
+**Table 2. Recent and/or highly cited computational hot spot prediction methods.**
 
 | Method                                               | Data                      | Features                                                                                                                             | Classifiers                                                   | Results#                                                               |
 |------------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|------------------------------------------------------------------------|
