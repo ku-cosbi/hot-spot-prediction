@@ -15,13 +15,13 @@ Petukh M, Li M, Alexov E: Predicting Binding Free Energy Change Caused by Point 
 
 Peng Y, Sun L, Jia Z, Li L, Alexov E: Predicting protein-DNA binding free energy change upon missense mutations using modified MM/PBSA approach: SAMPDI webserver. Bioinformatics 2018, 34:779-786.
 
-Jankauskaite J, Jimenez-Garcia B, Dapkunas J, Fernandez-Recio J, Moal IH: SKEMPI 2.0: an updated benchmark of changes in protein-protein binding energy, kinetics and thermodynamics upon mutation. Bioinformatics 2019, 35:462-469. SKEMPI 2.0 is the most recent and the largest database and hence, it is the most widely used database in computational hot spot prediction studies.
+Jankauskaite J, Jimenez-Garcia B, Dapkunas J, Fernandez-Recio J, Moal IH: SKEMPI 2.0: an updated benchmark of changes in protein-protein binding energy, kinetics and thermodynamics upon mutation. Bioinformatics 2019, 35:462-469.
 
 ### References for Prediction Methods
 
 Deng L, Sui Y, Zhang J: XGBPRH: Prediction of Binding Hot Spots at Protein(-)RNA Interfaces Utilizing Extreme Gradient Boosting. Genes (Basel) 2019, 10.
 
-Preto AJ, Moreira IS: SPOTONE: Hot Spots on Protein Complexes with Extremely Randomized Trees via Sequence-Only Features. Int J Mol Sci 2020, 21. Using sequence-only features this work can accurately classify hot spot residues without a need for three-dimensional structure of the proteins. Additionally, this work is one of the very few methods which apply deep learning i.e., neural networks.
+Preto AJ, Moreira IS: SPOTONE: Hot Spots on Protein Complexes with Extremely Randomized Trees via Sequence-Only Features. Int J Mol Sci 2020, 21.
 
 Tuncbag N, Keskin O, Gursoy A: HotPoint: hot spot prediction server for protein interfaces. Nucleic Acids Res 2010, 38:W402-406.
 
